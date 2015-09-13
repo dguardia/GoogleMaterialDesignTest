@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular Material-Start
 
 This Material **start*** project is a *seed* for AngularJS Material applications. The project contains a sample AngularJS application and is pre-configured to install the Angular framework and a bunch of development and testing tools for instant web development gratification.
@@ -227,3 +228,7 @@ For more information on Angular Material, check out https://material.angularjs.o
 [karma]: http://karma-runner.github.io
 [travis]: https://travis-ci.org/
 [http-server]: https://github.com/nodeapps/http-server
+=======
+# GoogleMaterialDesignTest
+Testing to start using Google Material Design
+>>>>>>> b4932a9b6c8e15e7e962113078769ea27e43e234
